@@ -1,0 +1,70 @@
+/*Muhammed Saffet Coskun 8955912*/
+body {
+    font: normal italic bold 12px/1.5 Arial, Helvetica, sans-serif;
+    padding: 10px 20px 10px 20px; /* Top, Right, Bottom, Left */
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+}
+figcaption {
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+/* Element selector for <q> */
+q {
+    font-family: cursive;
+    font-style: italic;
+    font-size: 1.2em; /* Increase the font size to your desired value */
+}
+h2 {
+    font-variant: small-caps;
+    color: rgb(0, 116, 136);
+    font-size: 1.5em;a
+}
+
+main{
+    float: left;
+    width: 60vw;
+    height: 60vh;
+}
+
+aside {
+    float: right;
+    width: 23vw;
+    height: 60vh;
+}
+footer{
+    border: 4px solid #10b6a0; /* Border with a color (#333) */
+    border-radius: 20px; /* Rounded corners */
+    padding: 10px; /* Padding inside the element */
+    margin: 10px; /* Margin outside the element */
+    clear: both;
+}
+header{
+    border: 4px solid #10b6a0; /* Border with a color (#333) */
+    border-radius: 20px; /* Rounded corners */
+    padding: 10px; /* Padding inside the element */
+    margin: 10px; /* Margin outside the element */
+}
+.structural{
+    padding: 10px;
+    margin: 10px;
+    text-align: left;
+}
+#para1{
+    color: rgb(0, 4, 255);
+}
+#para2{
+    color: rgb(255, 236, 23);
+}
+a:hover{
+    color: rgb(153, 116, 102);
+}
+footer p{
+    color: rgb(202, 33, 69);
+    font-size: 0.75em;
+}
+img {
+    border: 5px solid #10b6a0;
+  }
